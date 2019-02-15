@@ -1,1 +1,3 @@
-# espm288_2019
+# espm288
+
+Some course content
